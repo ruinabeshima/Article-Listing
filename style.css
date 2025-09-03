@@ -77,4 +77,16 @@ img {
   margin-bottom: 0.75rem; 
 }
 
+/* Mobile Design */
+@media screen and (max-width: 640px) {
+
+.header-title {
+  width: 20rem;
+}
+
+.article {
+  width: 20rem;
+}
+}
+
 
